@@ -18,7 +18,7 @@
 
 填写Token描述并选择权限，选择私有仓库访问权限，单击“Generate token”生成Token。
 
-![](https://support.huaweicloud.com/usermanual-codeci/zh-cn_image_0210825188.png)
+![image](https://user-images.githubusercontent.com/71535361/215311318-d2f3f921-b375-4c23-87e7-43c43cb87d15.png)
 
 复制生成的Token到编译构建服务即可。
 
